@@ -1,0 +1,11 @@
+body{
+    background: #2d2b7c;
+    padding-top: 56px;
+}
+nav{
+    z-index: 0;
+    margin-bottom: 15rem !important;
+}
+.logo{
+    border-radius: 90% !important;
+}
